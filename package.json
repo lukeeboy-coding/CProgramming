@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cypress": "^9.5.3",
     "ts": "^0.0.0",
     "ts-node": "^10.7.0"
   }
